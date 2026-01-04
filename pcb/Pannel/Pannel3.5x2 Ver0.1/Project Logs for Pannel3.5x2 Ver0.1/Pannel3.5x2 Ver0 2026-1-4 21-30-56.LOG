@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=VBUS Pin=C5-2
+Removed Pin From Net: NetName=VBUS Pin=C6-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C9-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C129-1
+Removed Pin From Net: NetName=VBUS Pin=C129-2
+Removed Pin From Net: NetName=GND Pin=C130-1
+Removed Pin From Net: NetName=VBUS Pin=C130-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C133-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=C135-1
+Removed Pin From Net: NetName=GND Pin=C135-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=E9-1
+Removed Pin From Net: NetName=GND Pin=E9-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=E11-1
+Removed Pin From Net: NetName=GND Pin=E11-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=L1-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=L3-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=VBUS Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U14-1
+Removed Pin From Net: NetName=VBUS Pin=U14-3
+Removed Member From Class: ClassName=pwr Member=C15
+Removed Member From Class: ClassName=pwr Member=C17
+Removed Member From Class: ClassName=pwr Member=C129
+Removed Member From Class: ClassName=pwr Member=C130
+Removed Member From Class: ClassName=pwr Member=C133
+Removed Member From Class: ClassName=pwr Member=C135
+Removed Member From Class: ClassName=pwr Member=E9
+Removed Member From Class: ClassName=pwr Member=E11
+Removed Member From Class: ClassName=pwr Member=U14
+Change Component Footprint: Designator=C1 Old Footprint=C0402_L New Footprint=C0603_L
+Change Component Footprint: Designator=C3 Old Footprint=C0402_L New Footprint=C0603_L
+Change Component Footprint: Designator=C6 Old Footprint=C0402_L New Footprint=C0603_L
+Change Component Footprint: Designator=C9 Old Footprint=C0402_L New Footprint=C0603_L
+Change Component Footprint: Designator=C5 Old Footprint=C0805_L New Footprint=C0603_L
+Change Component Footprint: Designator=L1 Old Footprint=SMMS0420 New Footprint=NR4020
+Change Component Footprint: Designator=L3 Old Footprint=SMMS0420 New Footprint=NR4020
+Change Footprint: Footprint Not Found SOT23-8
+Change Component Comment : Designator=L1 Old Comment=1.5uH New Comment=1uH
+Change Component Comment : Designator=L3 Old Comment=4.7uH New Comment=2uH
+Change Component Comment : Designator=R7 Old Comment=22.1K 1% New Comment=130K 1%
+Change Component Comment : Designator=C5 Old Comment=22uF 10V New Comment=4.7uF 6.3V
+Change Component Comment : Designator=C11 Old Comment=22uF 10V New Comment=4.7uF 6.3V
+Change Component Comment : Designator=R3 Old Comment=66.5K 1% New Comment=100K 1%
+Change Component Comment : Designator=R5 Old Comment=100K 1% New Comment=130K 1%
+Change Component Comment : Designator=C6 Old Comment=100nF 50V New Comment=22uF 6.3V
+Change Component Comment : Designator=C1 Old Comment=100nF 50V New Comment=22uF 10V
+Change Component Comment : Designator=C3 Old Comment=100nF 50V New Comment=22uF 10V
+Change Component Comment : Designator=C9 Old Comment=150PF 50V New Comment=22uF 6.3V
+Change Component Comment : Designator=U1 Old Comment=TPS54202DDCR New Comment=MP9148
+Added Component: Designator=E10(CS 6*4 - B)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=MR1(Mark 1)
+Add component (AddParameter): Name = "BOM名称"; Value = "光学定位点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=MR2(Mark 1)
+Add component (AddParameter): Name = "BOM名称"; Value = "光学定位点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=MR3(Mark 1)
+Add component (AddParameter): Name = "BOM名称"; Value = "光学定位点"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VBUS Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VBUS Pin=C3-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=C5-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=C11-2
+Added Pin To Net: NetName=VCC5V-A Pin=E10-1
+Added Pin To Net: NetName=GND Pin=E10-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=L1-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=L3-1
+Added Pin To Net: NetName=VBUS Pin=R1-1
+Added Pin To Net: NetName=VBUS Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=VCC1.05V-VL822 Pin=R10-1
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Add Pin To Net: Unknown Pin: Pin U1-7
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U1-6
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=U1-3
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R5-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R7-1
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=R13-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R14-1
+Added Pin To Net: NetName=NetR12_2 Pin=U1-1
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=pwr Member=Component E10 220uF/10V
+Added Member To Class: ClassName=connector Member=Component LED6 green
+Added Member To Class: ClassName=connector Member=Component LED8 green
+Added Member To Class: ClassName=pwr Member=Component MR1 MARK1.6
+Added Member To Class: ClassName=pwr Member=Component MR2 MARK1.6
+Added Member To Class: ClassName=pwr Member=Component MR3 MARK1.6
+Added Member To Class: ClassName=pwr Member=Component R10 390K 1%
+Added Member To Class: ClassName=pwr Member=Component R12 390K 1%
+Added Member To Class: ClassName=pwr Member=Component R13 130K 1%
+Added Member To Class: ClassName=pwr Member=Component R14 88.7K 1%
+Added Member To Class: ClassName=connector Member=Component R22 4.7K 1%
+Added Member To Class: ClassName=connector Member=Component R23 4.7K 1%
+Added Member To Class: ClassName=connector Member=Component R24 4.7K 1%
+Added Member To Class: ClassName=connector Member=Component R25 4.7K 1%

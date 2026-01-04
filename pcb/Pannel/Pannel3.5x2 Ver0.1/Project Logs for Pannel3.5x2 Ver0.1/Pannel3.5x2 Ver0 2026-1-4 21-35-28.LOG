@@ -1,0 +1,31 @@
+Change Footprint: Footprint Not Found SOT23-8
+Added Component: Designator=E5(CS 6*4 - R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E6(CS 6*4 - R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E7(CS 6*4 - R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=E8(CS 6*4 - R)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片钽电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC12V Pin=E5-1
+Added Pin To Net: NetName=GND Pin=E5-2
+Added Pin To Net: NetName=VCC12V Pin=E6-1
+Added Pin To Net: NetName=GND Pin=E6-2
+Added Pin To Net: NetName=VCC12V Pin=E7-1
+Added Pin To Net: NetName=GND Pin=E7-2
+Added Pin To Net: NetName=VCC12V Pin=E8-1
+Added Pin To Net: NetName=GND Pin=E8-2
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Member To Class: ClassName=pwr Member=Component E5 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E6 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E7 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E8 47uF/16V

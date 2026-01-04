@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=IN_SSTX1_N Pin=U9-2
+Removed Pin From Net: NetName=IN_SSTX1_P Pin=U9-3
+Removed Pin From Net: NetName=IN_SSTX2_P Pin=U9-4
+Removed Pin From Net: NetName=IN_SSTX2_N Pin=U9-5
+Change Footprint: Footprint Not Found SOT23-8
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Pin To Net: NetName=IN_SSTX1_P Pin=U9-2
+Added Pin To Net: NetName=IN_SSTX1_N Pin=U9-3
+Added Pin To Net: NetName=IN_SSTX2_N Pin=U9-4
+Added Pin To Net: NetName=IN_SSTX2_P Pin=U9-5

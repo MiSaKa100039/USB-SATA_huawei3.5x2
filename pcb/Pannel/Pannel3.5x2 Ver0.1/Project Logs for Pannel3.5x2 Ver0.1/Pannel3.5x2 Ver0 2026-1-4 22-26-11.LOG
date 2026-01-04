@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CON1 Old Footprint=DC-012 New Footprint=DC-IN-SMD_DC-182-25A
+Change Footprint: Footprint Not Found SOT23-8
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
