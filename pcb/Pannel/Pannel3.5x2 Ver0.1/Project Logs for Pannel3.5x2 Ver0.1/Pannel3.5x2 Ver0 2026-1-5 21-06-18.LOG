@@ -1,0 +1,171 @@
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=U14-7
+Removed Member From Class: ClassName=connector Member=C11
+Removed Member From Class: ClassName=connector Member=C12
+Removed Member From Class: ClassName=connector Member=C20
+Removed Member From Class: ClassName=connector Member=C23
+Removed Member From Class: ClassName=connector Member=C30
+Removed Member From Class: ClassName=jmb575 Member=C31
+Removed Member From Class: ClassName=jmb575 Member=C33
+Removed Member From Class: ClassName=jmb575 Member=C35
+Removed Member From Class: ClassName=pwr Member=C37
+Removed Member From Class: ClassName=pwr Member=C40
+Removed Member From Class: ClassName=pwr Member=C46
+Removed Member From Class: ClassName=vl822 Member=C76
+Removed Member From Class: ClassName=vl822 Member=C82
+Removed Member From Class: ClassName=jmb575 Member=L4
+Removed Member From Class: ClassName=connector Member=R1
+Removed Member From Class: ClassName=jmb575 Member=R5
+Removed Member From Class: ClassName=jmb575 Member=R7
+Removed Member From Class: ClassName=vl822 Member=R19
+Removed Member From Class: ClassName=vl822 Member=U5
+Removed Member From Class: ClassName=jmb575 Member=U10
+Removed Member From Class: ClassName=vl822 Member=Y2
+Change Component Comment : Designator=R20 Old Comment=100K 1% New Comment=10K 1%
+Change Component Comment : Designator=R21 Old Comment=100K 1% New Comment=10K 1%
+Change Component Comment : Designator=R26 Old Comment=100K 1% New Comment=10K 1%
+Change Component Comment : Designator=R27 Old Comment=100K 1% New Comment=10K 1%
+Change Component Designator: OldDesignator=  NewDesignator=R38
+Added Component: Designator=R47(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3.3V-VL822 Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=U14-7
+Added Net: Name=NetR47_2
+Added Member To Class: ClassName=pwr Member=Component C15 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C17 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C18 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C22 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C24 68PF 50V
+Added Member To Class: ClassName=pwr Member=Component C26 47uF 6.3V
+Added Member To Class: ClassName=pwr Member=Component C28 22uF 10V
+Added Member To Class: ClassName=pwr Member=Component C29 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C32 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C34 22uF 10V
+Added Member To Class: ClassName=pwr Member=Component C36 1nF 25V
+Added Member To Class: ClassName=connector Member=Component C38 10nF 6.3V
+Added Member To Class: ClassName=connector Member=Component C39 10nF 6.3V
+Added Member To Class: ClassName=connector Member=Component C41 10nF 6.3V
+Added Member To Class: ClassName=connector Member=Component C42 10nF 6.3V
+Added Member To Class: ClassName=connector Member=Component C43 10nF 6.3V
+Added Member To Class: ClassName=connector Member=Component C44 10nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C45 1uF 10V
+Added Member To Class: ClassName=jmb575 Member=Component C47 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C48 1uF 10V
+Added Member To Class: ClassName=jmb575 Member=Component C49 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C51 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C53 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C55 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C57 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C61 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C65 33pF/16V
+Added Member To Class: ClassName=jmb575 Member=Component C67 1uF 10V
+Added Member To Class: ClassName=jmb575 Member=Component C69 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C73 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C75 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C77 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C79 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C81 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C83 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C85 100nF 6.3V
+Added Member To Class: ClassName=jmb575 Member=Component C87 33pF/16V
+Added Member To Class: ClassName=vl822 Member=Component C89 100nF 10V
+Added Member To Class: ClassName=vl822 Member=Component C90 4.7uF 10V NC
+Added Member To Class: ClassName=vl822 Member=Component C99 100nF 6.3V
+Added Member To Class: ClassName=vl822 Member=Component C101 100nF 6.3V
+Added Member To Class: ClassName=vl822 Member=Component C103 100nF 6.3V
+Added Member To Class: ClassName=vl822 Member=Component C105 100nF 6.3V
+Added Member To Class: ClassName=vl822 Member=Component C108 22pF/16V
+Added Member To Class: ClassName=pwr Member=Component E5 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E6 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E7 47uF/16V
+Added Member To Class: ClassName=pwr Member=Component E8 47uF/16V
+Added Member To Class: ClassName=connector Member=Component J4 USB3.1_Type-A
+Added Member To Class: ClassName=connector Member=Component J5 USB3.1_Type-A
+Added Member To Class: ClassName=jmb575 Member=Component L6 4.7uH
+Added Member To Class: ClassName=jmb575 Member=Component L7 4.7uH
+Added Member To Class: ClassName=pwr Member=Component R9 100K 1%
+Added Member To Class: ClassName=connector Member=Component R15 4.7K 1%
+Added Member To Class: ClassName=jmb575 Member=Component R17 4.7K 1%
+Added Member To Class: ClassName=jmb575 Member=Component R18 100K 1%
+Added Member To Class: ClassName=jmb575 Member=Component R19 12K 1%
+Added Member To Class: ClassName=jmb575 Member=Component R20 10K 1%
+Added Member To Class: ClassName=jmb575 Member=Component R26 10K 1%
+Added Member To Class: ClassName=vl822 Member=Component R33 4.7K 1%
+Added Member To Class: ClassName=vl822 Member=Component R43 4.7K 1%
+Added Member To Class: ClassName=vl822 Member=Component R46 10K 1%
+Added Member To Class: ClassName=vl822 Member=Component R47 10K 1%
+Added Member To Class: ClassName=jmb575 Member=Component U6 JMS578
+Added Member To Class: ClassName=jmb575 Member=Component U7 P25Q21H
+Added Member To Class: ClassName=jmb575 Member=Component U9 P25Q21H
+Added Member To Class: ClassName=vl822 Member=Component U11 VL822 Q7
+Added Member To Class: ClassName=vl822 Member=Component U13 TPD4E02B04
+Added Member To Class: ClassName=vl822 Member=Component U14 P25Q21H
+Added Member To Class: ClassName=vl822 Member=Component Y3 25Mhz
+Added Member To Class: ClassName=SATA Member=Wire cap_SSRX4_N
+Added Member To Class: ClassName=SATA Member=Wire cap_SSRX4_P
+Added Member To Class: ClassName=SATA Member=Wire HSD4_N
+Added Member To Class: ClassName=SATA Member=Wire HSD4_P
+Added Member To Class: ClassName=SATA Member=Wire SSRX4_N
+Added Member To Class: ClassName=SATA Member=Wire SSRX4_P
+Added Member To Class: ClassName=SATA Member=Wire SSTX4_N
+Added Member To Class: ClassName=SATA Member=Wire SSTX4_P
+Added Rule: Name=Schematic Routing Via Style_2
+Added Rule: Name=Schematic Routing Via Style_3
+Added Rule: Name=Schematic Routing Via Style_4
+Added Rule: Name=Schematic Routing Via Style_5
+Added Rule: Name=Schematic Routing Via Style_6
+Added Rule: Name=Schematic Routing Via Style_7
+Added Rule: Name=Schematic Routing Via Style_8
+Added Rule: Name=Schematic Routing Via Style_9
+Added Rule: Name=Schematic Routing Via Style_10
+Added Rule: Name=Schematic Routing Via Style_11
+Added Rule: Name=Schematic Routing Via Style_12
+Added Rule: Name=Schematic Routing Via Style_13
+Added Rule: Name=Schematic Routing Via Style_14
+Added Rule: Name=Schematic Routing Via Style_15
+Added Rule: Name=Schematic Routing Via Style_16
+Added Rule: Name=Schematic Routing Via Style_17
+Added Rule: Name=Schematic Routing Via Style_18
+Added Rule: Name=Schematic Routing Via Style_19
+Added Rule: Name=Schematic Routing Via Style_20
+Added Rule: Name=Schematic Routing Via Style_21
+Added Rule: Name=Schematic Routing Via Style_22
+Added Rule: Name=Schematic Routing Via Style_23
+Added Rule: Name=Schematic Routing Via Style_24
+Added Rule: Name=Schematic Routing Via Style_25
+Added Rule: Name=Schematic Routing Via Style_26
+Added Rule: Name=Schematic Routing Via Style_27
+Added Rule: Name=Schematic Routing Via Style_28
+Added Rule: Name=Schematic Routing Via Style_29
+Added Rule: Name=Schematic Routing Via Style_30
+Added Rule: Name=Schematic Routing Via Style_31
+Added Rule: Name=Schematic Routing Via Style_32
+Added Rule: Name=Schematic Routing Via Style_33
+Added Rule: Name=Schematic Routing Via Style_34
+Added Rule: Name=Schematic Routing Via Style_35
+Added Rule: Name=Schematic Routing Via Style_36
+Added Rule: Name=Schematic Routing Via Style_37
+Added Rule: Name=Schematic Routing Via Style_38
+Added Rule: Name=Schematic Routing Via Style_39
+Added Rule: Name=Schematic Routing Via Style_40
+Added Rule: Name=Schematic Routing Via Style_41
+Added Rule: Name=Schematic Routing Via Style_42
+Added Rule: Name=Schematic Routing Via Style_43
+Added Rule: Name=Schematic Routing Via Style_44
+Added Rule: Name=Schematic Routing Via Style_45
+Added Rule: Name=Schematic Routing Via Style_46
+Added Rule: Name=Schematic Routing Via Style_47
+Added Rule: Name=Schematic Routing Via Style_48
+Added Rule: Name=Schematic Routing Via Style_49
+Added Rule: Name=Schematic Routing Via Style_50
+Added Rule: Name=Schematic Routing Via Style_51
+Added Rule: Name=Schematic Routing Via Style_52
+Added Rule: Name=Schematic Routing Via Style_53
+Added Rule: Name=Schematic Routing Via Style_54
+Added Rule: Name=Schematic Routing Via Style_55
+Added Rule: Name=Schematic Routing Via Style_56
+Added Rule: Name=Schematic Routing Via Style_57
+Added Rule: Name=Schematic Routing Via Style_58
+Change Rule Scope 1 : Old Scope=InNet('cap_SSTX_N') New Scope=InNet('IN_SSTX2_N')

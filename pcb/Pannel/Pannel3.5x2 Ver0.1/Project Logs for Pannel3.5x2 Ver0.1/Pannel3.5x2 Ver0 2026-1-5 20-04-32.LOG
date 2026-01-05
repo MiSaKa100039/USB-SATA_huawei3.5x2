@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=PWR Member=NetC?_2
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C57
+Change Component Designator: OldDesignator=L? NewDesignator=L9
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=U? NewDesignator=U14
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC55_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC45_2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=NetC44_1 Pin=U14-6
+Added Net: Name=NetC44_1
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=L9-1
+Added Pin To Net: NetName=NetC44_2 Pin=U14-2
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=C54-1
+Added Pin To Net: NetName=NetC45_1 Pin=U14-1
+Added Net: Name=NetC45_1
+Added Member To Class: ClassName=pwr Member=Component C43 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C44 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C45 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C54 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C55 68PF 50V
+Added Member To Class: ClassName=pwr Member=Component C56 22uF 10V
+Added Member To Class: ClassName=pwr Member=Component R28 100K 1%
+Added Member To Class: ClassName=PWR Member=Wire NetC45_2

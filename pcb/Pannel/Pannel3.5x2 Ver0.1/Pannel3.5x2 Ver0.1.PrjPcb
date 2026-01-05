@@ -151,167 +151,180 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEMJFZDJ
 
+[Document7]
+DocumentPath=Pannel3.5x2 Ver0.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VEYJOUHV
+
 [GeneratedDocument1]
 DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G2
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.REP
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Soldermask_Top.gbr
 DItemRevisionGUID=
 

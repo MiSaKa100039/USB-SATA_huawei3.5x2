@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C14_1-1
+Removed Pin From Net: NetName=GND Pin=C14_1-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C15_1-1
+Removed Pin From Net: NetName=NetC15_2 Pin=C15_1-2
+Removed Pin From Net: NetName=GND Pin=C17_1-1
+Removed Pin From Net: NetName=VBUS Pin=C17_1-2
+Removed Pin From Net: NetName=GND Pin=C20_1-1
+Removed Pin From Net: NetName=VBUS Pin=C20_1-2
+Removed Pin From Net: NetName=NetC23_1 Pin=C23_1-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C23_1-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C26_1-1
+Removed Pin From Net: NetName=GND Pin=C26_1-2
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=C29_1-1
+Removed Pin From Net: NetName=GND Pin=C29_1-2
+Removed Pin From Net: NetName=VBUS Pin=J4-A4
+Removed Pin From Net: NetName=VBUS Pin=J4-A9
+Removed Pin From Net: NetName=VBUS Pin=J4-B4
+Removed Pin From Net: NetName=VBUS Pin=J4-B9
+Removed Pin From Net: NetName=NetC15_2 Pin=L4_1-1
+Removed Pin From Net: NetName=VCC1.05V-VL822 Pin=L4_1-2
+Removed Pin From Net: NetName=NetC23_1 Pin=R16_1-1
+Removed Pin From Net: NetName=GND Pin=R16_1-2
+Removed Pin From Net: NetName=GND Pin=U3_1-1
+Removed Pin From Net: NetName=NetC15_2 Pin=U3_1-2
+Removed Pin From Net: NetName=VBUS Pin=U3_1-3
+Removed Pin From Net: NetName=NetC23_1 Pin=U3_1-4
+Removed Pin From Net: NetName=NetC15_1 Pin=U3_1-6
+Added Component: Designator=C?(C0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0805_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "材质"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L?(SMMS0420)
+Add component (AddParameter): Name = "BOM名称"; Value = "小功率贴片电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0402_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT23-6L)
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=VBUS Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=C?-2
+Added Pin To Net: NetName=VBUS Pin=L?-2
+Added Pin To Net: NetName=VBUS Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-4
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetJ4_A4 Pin=J4-A4
+Added Pin To Net: NetName=NetJ4_A4 Pin=J4-A9
+Added Pin To Net: NetName=NetJ4_A4 Pin=J4-B4
+Added Pin To Net: NetName=NetJ4_A4 Pin=J4-B9
+Added Net: Name=NetJ4_A4
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 25V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 10V
+Added Member To Class: ClassName=pwr Member=Component C? 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C? 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C? 100nF 50V
+Added Member To Class: ClassName=pwr Member=Component C? 68PF 50V
+Added Member To Class: ClassName=pwr Member=Component C? 22uF 10V
+Added Member To Class: ClassName=pwr Member=Component L? 10uH
+Added Member To Class: ClassName=pwr Member=Component R? 13.7K 1%
+Added Member To Class: ClassName=pwr Member=Component R? 100K 1%
+Added Member To Class: ClassName=pwr Member=Component U? TPS54202DDCR
+Added Member To Class: ClassName=PWR Member=Wire NetC?_2
