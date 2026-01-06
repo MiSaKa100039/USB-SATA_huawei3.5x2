@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NRGSOYIT
 
 [Document5]
-DocumentPath=Pannel3.5x3.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VEYJOUHV
-
-[Document6]
 DocumentPath=Pannel3.5x3.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEMJFZDJ
 
-[Document7]
+[Document6]
 DocumentPath=Pannel3.5x2 Ver0.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

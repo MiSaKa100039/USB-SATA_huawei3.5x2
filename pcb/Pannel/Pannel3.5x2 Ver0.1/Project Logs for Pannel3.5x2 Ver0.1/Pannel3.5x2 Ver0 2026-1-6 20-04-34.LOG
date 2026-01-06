@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=cap_TX2_P Pin=C38_1-1
+Removed Pin From Net: NetName=TX2_P Pin=C38_1-2
+Removed Pin From Net: NetName=cap_TX2_N Pin=C40_1-1
+Removed Pin From Net: NetName=TX2_N Pin=C40_1-2
+Removed Pin From Net: NetName=GND Pin=C45_1-1
+Removed Pin From Net: NetName=NetC45_2 Pin=C45_1-2
+Removed Pin From Net: NetName=GND Pin=C46_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C46_1-2
+Removed Pin From Net: NetName=GND Pin=C47_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C47_1-2
+Removed Pin From Net: NetName=NetC48_1 Pin=C48_1-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=C48_1-2
+Removed Pin From Net: NetName=GND Pin=C49_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C49_1-2
+Removed Pin From Net: NetName=GND Pin=C50_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C50_1-2
+Removed Pin From Net: NetName=GND Pin=C51_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C51_1-2
+Removed Pin From Net: NetName=GND Pin=C52_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C52_1-2
+Removed Pin From Net: NetName=GND Pin=C53_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C53_1-2
+Removed Pin From Net: NetName=GND Pin=C54_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C54_1-2
+Removed Pin From Net: NetName=GND Pin=C55_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C55_1-2
+Removed Pin From Net: NetName=GND Pin=C56_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=C56_1-2
+Removed Pin From Net: NetName=GND Pin=C57_1-1
+Removed Pin From Net: NetName=VBUS Pin=C57_1-2
+Removed Pin From Net: NetName=GND Pin=C58_1-1
+Removed Pin From Net: NetName=VBUS Pin=C58_1-2
+Removed Pin From Net: NetName=GND Pin=C59_1-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=C59_1-2
+Removed Pin From Net: NetName=GND Pin=C60_1-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=C60_1-2
+Removed Pin From Net: NetName=GND Pin=C61_1-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=C61_1-2
+Removed Pin From Net: NetName=GND Pin=C62_1-1
+Removed Pin From Net: NetName=VCC3V3-B Pin=C62_1-2
+Removed Pin From Net: NetName=SSRX4_P Pin=C63_1-1
+Removed Pin From Net: NetName=cap_SSRX4_N Pin=C63_1-2
+Removed Pin From Net: NetName=SSRX4_N Pin=C64_1-1
+Removed Pin From Net: NetName=cap_SSRX4_P Pin=C64_1-2
+Removed Pin From Net: NetName=SSTX4_N Pin=C99_1-1
+Removed Pin From Net: NetName=cap_SSTX4_N Pin=C99_1-2
+Removed Pin From Net: NetName=SSTX4_P Pin=C101_1-1
+Removed Pin From Net: NetName=cap_SSTX4_P Pin=C101_1-2
+Removed Pin From Net: NetName=LXO-B Pin=L6_1-1
+Removed Pin From Net: NetName=VCC1V2-B Pin=L6_1-2
+Removed Pin From Net: NetName=VCC3V3-B Pin=R16_1-1
+Removed Pin From Net: NetName=NetC45_2 Pin=R16_1-2
+Removed Pin From Net: NetName=VCC3V3-B Pin=R17_1-1
+Removed Pin From Net: NetName=NetR17_2 Pin=R17_1-2
+Removed Pin From Net: NetName=GND Pin=R18_1-1
+Removed Pin From Net: NetName=NetC48_1 Pin=R18_1-2
+Removed Pin From Net: NetName=GND Pin=R19_1-1
+Removed Pin From Net: NetName=NetR19_2 Pin=R19_1-2
+Removed Pin From Net: NetName=NetC48_1 Pin=U6_1-1
+Removed Pin From Net: NetName=GPIO0-B Pin=U6_1-2
+Removed Pin From Net: NetName=GPIO1-B Pin=U6_1-3
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-4
+Removed Pin From Net: NetName=GPIO2-B Pin=U6_1-5
+Removed Pin From Net: NetName=GPIO3-B Pin=U6_1-6
+Removed Pin From Net: NetName=VCC3V3-B Pin=U6_1-7
+Removed Pin From Net: NetName=GPIO4-B Pin=U6_1-8
+Removed Pin From Net: NetName=GPIO5-B Pin=U6_1-9
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-10
+Removed Pin From Net: NetName=GPIO6-B Pin=U6_1-11
+Removed Pin From Net: NetName=VBUS Pin=U6_1-12
+Removed Pin From Net: NetName=HSD4_N Pin=U6_1-13
+Removed Pin From Net: NetName=VCC3V3-B Pin=U6_1-14
+Removed Pin From Net: NetName=HSD4_P Pin=U6_1-15
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-18
+Removed Pin From Net: NetName=cap_SSRX4_N Pin=U6_1-19
+Removed Pin From Net: NetName=cap_SSRX4_P Pin=U6_1-20
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-21
+Removed Pin From Net: NetName=SSTX4_N Pin=U6_1-22
+Removed Pin From Net: NetName=SSTX4_P Pin=U6_1-23
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-24
+Removed Pin From Net: NetName=GND Pin=U6_1-26
+Removed Pin From Net: NetName=XOUT-B Pin=U6_1-27
+Removed Pin From Net: NetName=XIN-B Pin=U6_1-28
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-29
+Removed Pin From Net: NetName=RX2_P Pin=U6_1-30
+Removed Pin From Net: NetName=RX2_N Pin=U6_1-31
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-32
+Removed Pin From Net: NetName=TX2_N Pin=U6_1-33
+Removed Pin From Net: NetName=TX2_P Pin=U6_1-34
+Removed Pin From Net: NetName=NetR19_2 Pin=U6_1-36
+Removed Pin From Net: NetName=NetR17_2 Pin=U6_1-37
+Removed Pin From Net: NetName=NetC45_2 Pin=U6_1-38
+Removed Pin From Net: NetName=VCC3V3-B Pin=U6_1-39
+Removed Pin From Net: NetName=VCC1V2-B Pin=U6_1-40
+Removed Pin From Net: NetName=GND Pin=U6_1-42
+Removed Pin From Net: NetName=GND Pin=U6_1-43
+Removed Pin From Net: NetName=LXO-B Pin=U6_1-44
+Removed Pin From Net: NetName=VBUS Pin=U6_1-45
+Removed Pin From Net: NetName=VCC3V3-B Pin=U6_1-46
+Removed Pin From Net: NetName=GND Pin=U6_1-47
+Removed Pin From Net: NetName=GND Pin=U6_1-49
+Added Pin To Net: NetName=TX1_P Pin=C37-2
+Added Pin To Net: NetName=TX1_N Pin=C39-2
+Added Pin To Net: NetName=RX1_N Pin=C41-2
+Added Pin To Net: NetName=RX1_P Pin=C43-2
+Change Net Name : Old Net Name=cap_RX3_N New Net Name=cap_RX1_N
+Change Net Name : Old Net Name=cap_RX3_P New Net Name=cap_RX1_P
+Change Net Name : Old Net Name=cap_TX3_N New Net Name=cap_TX1_N
+Change Net Name : Old Net Name=cap_TX3_P New Net Name=cap_TX1_P
+Change Net Name : Old Net Name=DAS3 New Net Name=DAS1
+Change Net Name : Old Net Name=HOT3 New Net Name=HOT1
+Added Differential Pair: Name=cap_RX1
+Added Differential Pair: Name=cap_TX1
+Added Member To Class: ClassName=SATA Member=Wire cap_RX1_N
+Added Member To Class: ClassName=SATA Member=Wire cap_RX1_P
+Added Member To Class: ClassName=SATA Member=Wire cap_TX1_N
+Added Member To Class: ClassName=SATA Member=Wire cap_TX1_P

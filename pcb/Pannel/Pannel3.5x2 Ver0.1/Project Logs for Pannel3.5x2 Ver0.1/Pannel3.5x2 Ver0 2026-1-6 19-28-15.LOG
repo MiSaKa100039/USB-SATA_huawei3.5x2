@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=SSRX2_N Pin=C63-1
+Removed Pin From Net: NetName=SSRX2_P Pin=C64-1
+Removed Pin From Net: NetName=SSRX4_N Pin=C85-1
+Removed Pin From Net: NetName=SSRX4_P Pin=C86-1
+Removed Pin From Net: NetName=HSD2_N Pin=U6-13
+Removed Pin From Net: NetName=HSD2_P Pin=U6-15
+Removed Pin From Net: NetName=SSTX2_N Pin=U6-22
+Removed Pin From Net: NetName=SSTX2_P Pin=U6-23
+Removed Pin From Net: NetName=HSD4_N Pin=U8-13
+Removed Pin From Net: NetName=HSD4_P Pin=U8-15
+Removed Pin From Net: NetName=SSTX4_N Pin=U8-22
+Removed Pin From Net: NetName=SSTX4_P Pin=U8-23
+Removed Pin From Net: NetName=RX3_P Pin=U8-30
+Removed Pin From Net: NetName=RX3_N Pin=U8-31
+Removed Pin From Net: NetName=TX3_N Pin=U8-33
+Removed Pin From Net: NetName=TX3_P Pin=U8-34
+Removed Member From Class: ClassName=SATA Member=cap_SSRX4_N
+Removed Member From Class: ClassName=SATA Member=cap_SSRX4_P
+Removed Member From Class: ClassName=SATA Member=HSD4_N
+Removed Member From Class: ClassName=SATA Member=HSD4_P
+Removed Member From Class: ClassName=SATA Member=SSRX4_N
+Removed Member From Class: ClassName=SATA Member=SSRX4_P
+Removed Member From Class: ClassName=SATA Member=SSTX4_N
+Removed Member From Class: ClassName=SATA Member=SSTX4_P
+Added Pin To Net: NetName=SSRX4_N Pin=C63-1
+Added Pin To Net: NetName=SSRX4_P Pin=C64-1
+Added Pin To Net: NetName=SSRX1_N Pin=C85-1
+Added Pin To Net: NetName=SSRX1_P Pin=C86-1
+Added Pin To Net: NetName=HSD4_N Pin=U6-13
+Added Pin To Net: NetName=HSD4_P Pin=U6-15
+Added Pin To Net: NetName=SSTX4_N Pin=U6-22
+Added Pin To Net: NetName=SSTX4_P Pin=U6-23
+Added Pin To Net: NetName=HSD1_N Pin=U8-13
+Added Pin To Net: NetName=HSD1_P Pin=U8-15
+Added Pin To Net: NetName=SSTX1_N Pin=U8-22
+Added Pin To Net: NetName=SSTX1_P Pin=U8-23
+Change Net Name : Old Net Name=cap_SSRX2_N New Net Name=cap_SSRX4_N
+Change Net Name : Old Net Name=cap_SSRX4_N New Net Name=cap_SSRX1_N
+Change Net Name : Old Net Name=cap_SSRX4_P New Net Name=cap_SSRX1_P
+Added Pin To Net: NetName=RX1_N Pin=U8-31
+Added Net: Name=RX1_N
+Added Pin To Net: NetName=RX1_P Pin=U8-30
+Added Net: Name=RX1_P
+Added Pin To Net: NetName=TX1_N Pin=U8-33
+Added Net: Name=TX1_N
+Added Pin To Net: NetName=TX1_P Pin=U8-34
+Added Net: Name=TX1_P
+Added Differential Pair: Name=cap_SSRX1
+Added Differential Pair: Name=RX1
+Added Differential Pair: Name=TX1
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX1_N
+Added Member To Class: ClassName=USB Member=Wire cap_SSRX1_P
+Added Member To Class: ClassName=SATA Member=Wire RX1_N
+Added Member To Class: ClassName=SATA Member=Wire RX1_P
+Added Member To Class: ClassName=SATA Member=Wire TX1_N
+Added Member To Class: ClassName=SATA Member=Wire TX1_P

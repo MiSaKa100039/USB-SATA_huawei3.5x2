@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SSTX2_P Pin=J5-8
+Removed Pin From Net: NetName=SSTX2_N Pin=J5-9
+Added Pin To Net: NetName=SSTX2_N Pin=J5-8
+Added Pin To Net: NetName=SSTX2_P Pin=J5-9
