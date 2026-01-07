@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SSRX1_N Pin=C85-1
+Removed Pin From Net: NetName=SSRX1_P Pin=C86-1
+Added Pin To Net: NetName=SSRX1_P Pin=C85-1
+Added Pin To Net: NetName=SSRX1_N Pin=C86-1
