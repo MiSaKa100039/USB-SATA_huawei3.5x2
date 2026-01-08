@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=XOUT-B Pin=U6-27
+Removed Pin From Net: NetName=XIN-B Pin=U6-28
+Removed Pin From Net: NetName=XOUT-C Pin=U8-27
+Removed Pin From Net: NetName=XIN-C Pin=U8-28
+Added Pin To Net: NetName=XIN-B Pin=U6-27
+Added Pin To Net: NetName=XOUT-B Pin=U6-28
+Added Pin To Net: NetName=XIN-C Pin=U8-27
+Added Pin To Net: NetName=XOUT-C Pin=U8-28
+Change Differential Pair Positive Net Name : Old Net Name=IN_SSRX2_P New Net Name=IN_SSRX2_P
+Change Differential Pair Negative Net Name : Old Net Name=IN_SSRX2_N New Net Name=IN_SSRX2_N
+Added Member To Class: ClassName=USB Member=Wire IN_SSRX2_P
