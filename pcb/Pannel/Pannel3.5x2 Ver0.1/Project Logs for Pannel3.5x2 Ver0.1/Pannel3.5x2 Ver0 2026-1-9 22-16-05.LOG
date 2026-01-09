@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=JP? Old Footprint=HDR1.27-LI-6P New Footprint=6p烧录点
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Added Component: Designator=JP4(6p烧录点)
+Add component (AddParameter): Name = "BOM名称"; Value = "6P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connector Member=Component JP4 HDR-1X6
