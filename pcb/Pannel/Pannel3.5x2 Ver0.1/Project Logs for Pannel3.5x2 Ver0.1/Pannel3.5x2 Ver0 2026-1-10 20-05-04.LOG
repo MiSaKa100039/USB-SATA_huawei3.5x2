@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R12-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R13-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R14-1
+Removed Pin From Net: NetName=VCC3.3V-VL822 Pin=R15-1
+Added Pin To Net: NetName=VBUS Pin=R12-1
+Added Pin To Net: NetName=VBUS Pin=R13-1
+Added Pin To Net: NetName=VBUS Pin=R14-1
+Added Pin To Net: NetName=VBUS Pin=R15-1

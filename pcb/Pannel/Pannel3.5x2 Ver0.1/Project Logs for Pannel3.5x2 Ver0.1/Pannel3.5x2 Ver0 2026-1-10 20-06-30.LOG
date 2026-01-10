@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VCC12V Pin=JP2-0
+Removed Pin From Net: NetName=VCC5V-B Pin=JP2-0
