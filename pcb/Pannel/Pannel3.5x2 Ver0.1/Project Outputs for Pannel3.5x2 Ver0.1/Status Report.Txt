@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Pannel3.5x2 Ver0.1.PrjPcb]
+   Generated File[Pannel3.5x2 Ver0.1.TXT]
+   Generated File[Pannel3.5x2 Ver0.1.DRL]
+   Generated File[Pannel3.5x2 Ver0.1.LDP]
+   Generated File[Pannel3.5x2 Ver0.1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:16:48 On 2026/1/10
