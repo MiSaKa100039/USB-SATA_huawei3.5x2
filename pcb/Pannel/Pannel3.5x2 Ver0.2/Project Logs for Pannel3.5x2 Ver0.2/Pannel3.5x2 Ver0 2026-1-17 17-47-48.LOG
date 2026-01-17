@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J2-SH1
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Removed Pin From Net: NetName=GND Pin=JP1-0
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VCC12V Pin=JP2-0
+Removed Pin From Net: NetName=VCC5V-B Pin=JP2-0
+Change Component Footprint: Designator=CON1 Old Footprint=DC-IN-SMD_DC-182-25A New Footprint=DC-012G-2.5
+Change Component Comment : Designator=R3 Old Comment=66.5K 1% New Comment=62K 1%
+Change Component Comment : Designator=R1 Old Comment=100K 1% New Comment=51K 1%
+Added Component: Designator=JP?(XH2.54-WI-4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=connector Member=Component JP? HDR-1X4
