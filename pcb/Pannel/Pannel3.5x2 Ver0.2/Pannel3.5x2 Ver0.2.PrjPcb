@@ -232,158 +232,234 @@ DocumentPath=Project Outputs for Pannel3.5x2 Ver0.1\Pannel3.5x2 Ver0.1_Soldermas
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-RoundHoles.TXT
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-SlotHoles.TXT
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRL
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRR
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.EXTREP
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G1
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G2
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBL
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBO
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBP
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBS
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GD1
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GG1
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GKO
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM1
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM6
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM13
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM15
+DocumentPath=Project Outputs for Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPB
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPT
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTL
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTO
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTP
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTS
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G1
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.LDP
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.G2
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.REP
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Bot.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Top.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Mechanical_1.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Bot.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Top.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Profile.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument59]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
 DocumentPath=Project Outputs for Pannel3.5x3\Pannel3.5x3_Soldermask_Top.gbr
 DItemRevisionGUID=
 
@@ -610,7 +686,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=H:\Project\USB-SATA_huawei3.5x2\pcb\Pannel\Pannel3.5x2 Ver0.1\Pannel3.5x2 Ver0.1.PcbDoc
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=H:\Project\USB-SATA_huawei3.5x2\pcb\Pannel\Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -641,7 +717,7 @@ OutputDefault6=0
 Configuration6_Name1=ForceUpdateSettings
 Configuration6_Item1=False
 Configuration6_Name2=OutputConfigurationParameter1
-Configuration6_Item2=BoardID=VEYJOUHV|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|UncheckPlotNPTHPair0_Backdrill=False|UncheckPlotNPTHPair0_Checked=False|UncheckPlotNPTHPair0_DrillType=Regular|UncheckPlotNPTHPair0_FileName= |UncheckPlotNPTHPair0_HighLayer=Top Layer|UncheckPlotNPTHPair0_LowLayer=Bottom Layer|UncheckPlotPTHPair0_Backdrill=False|UncheckPlotPTHPair0_Checked=False|UncheckPlotPTHPair0_DrillType=Regular|UncheckPlotPTHPair0_FileName= |UncheckPlotPTHPair0_HighLayer=Top Layer|UncheckPlotPTHPair0_LowLayer=Bottom Layer|DocumentPath=H:\Project\USB-SATA_huawei3.5x2\pcb\Pannel\Pannel3.5x2 Ver0.1\Pannel3.5x2 Ver0.1.PcbDoc
+Configuration6_Item2=BoardID=VEYJOUHV|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|UncheckPlotNPTHPair0_Backdrill=False|UncheckPlotNPTHPair0_Checked=False|UncheckPlotNPTHPair0_DrillType=Regular|UncheckPlotNPTHPair0_FileName= |UncheckPlotNPTHPair0_HighLayer=Top Layer|UncheckPlotNPTHPair0_LowLayer=Bottom Layer|UncheckPlotPTHPair0_Backdrill=False|UncheckPlotPTHPair0_Checked=False|UncheckPlotPTHPair0_DrillType=Regular|UncheckPlotPTHPair0_FileName= |UncheckPlotPTHPair0_HighLayer=Top Layer|UncheckPlotPTHPair0_LowLayer=Bottom Layer|DocumentPath=H:\Project\USB-SATA_huawei3.5x2\pcb\Pannel\Pannel3.5x2 Ver0.2\Pannel3.5x2 Ver0.2.PcbDoc
 OutputType7=CompositeDrill
 OutputName7=Composite Drill Drawing
 OutputDocumentPath7=
